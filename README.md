@@ -2,8 +2,7 @@
 
 A simple and interactive Library Management System built using **Python** and **Streamlit**, designed for managing book records, users, and library activities with ease. It supports two types of users: **Librarians** and **Members**, each with distinct roles and dashboards.
 
-## **Demo Video**
-Watch the project demo here: [Demo Link](#) *(replace with your YouTube/Drive link)*
+
 
 ---
 
