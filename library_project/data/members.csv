@@ -1,0 +1,4 @@
+MemberID,Name,Email,PasswordHash,JoinDate
+1001,Sid,example1@gmail.com,$2b$12$examplehash1,2025-05-10
+1002,Ram,example2@gmail.com,$2b$12$examplehash2,2025-05-11
+1003,Sidharth,9848548475s@gmail.com,$2b$12$O.vVVnYNVRMJcNH2YyaRYe4mUowwYSoZbaqKxDJxm0saEPocqvfju,2025-05-17
